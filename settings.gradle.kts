@@ -21,5 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Base_Clean"
 include(":app")
-include(":domain")
-include(":data")
+include(":dataApp")
+include(":domainApp")
